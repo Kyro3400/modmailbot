@@ -14,6 +14,7 @@ Inspired by Reddit's modmail system.
 * [🧩 Plugins](docs/plugins.md)
 * [🙋 Frequently Asked Questions](docs/faq.md)
 * [Release notes](CHANGELOG.md)
+* [![Run on Repl.it](https://repl.it/badge/github/Jonfirexbox/modmailbot)](https://repl.it/github/Jonfirexbox/modmailbot)
 
 ## Support server
 If you need help with setting up the bot or would like to discuss other things related to it, join the support server on Discord here:
